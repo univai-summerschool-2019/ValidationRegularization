@@ -1,0 +1,15 @@
+channels:
+- defaults
+dependencies:
+- pip
+- matplotlib
+- nbconvert
+- numpy
+- pandas
+- scipy
+- seaborn
+- scikit-learn
+- keras
+- pip:
+  - wasabi
+  - wandb
